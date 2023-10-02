@@ -148,7 +148,16 @@ Maintaining both authority and engagement sometimes means striking a balance bet
 ## C. Moral and Value Judgements 
 We celebrate our shared history but we do not celebrate the *subjects* of our research (e.g. rather than describing Terminal Tower as "beautiful," we describe it as "striking"). Likewise, though history contains many villains, we do not use excessively moralistic language (e.g. rather than describing Danny Greene as a "thug," we describe him as an "alleged mafia enforcer"). As such, it is also generally not appropriate to use  explicitly religious language (e.g. rather than saying one was "blessed," we might instead say they were "fortunate") or an overtly political tone (e.g. rather than saying "the masses rose up against the capital class," we might instead say "the workers went on strike"). Finally, language that diminishes traditional cultural practices and beliefs and/or targets minorities and other groups as a whole is prohibited.
 
-## D. Grammar and Style
+## D. The Present and the Future
+Obviously, Cleveland Historical is primarily concerned with documenting the past. That said, the narrative arc of many histories will conclude in the present day and often look toward the future. This can sometimes mean that a given story will become outdated shortly after publication. Periodically updating or amending existing content is a normal and essential part of maintaining a reference resource like ours. After all, history is a moving target. The facts – and what we make of them – evolve over time.   Unlike a book or journal article, Cleveland Historical is a *living* resource. Thus, we must consider how our research will read in one year, five years, ten years, and beyond.
+
+Think twice before using words like: currently, presently, and today.
+
+For example, instead of saying that "Sherwin-Williams is currently building a new headquarters," say "In 2020, Sherwin-Williams revealed their plans for a new headquarters." The former is outdated as soon as construction is complete, whereas the latter is never outdated and can be easily amended at a later date. The preferred language effectively situates the present day in the historical past.
+
+Similarly, think twice before using a phrase like "100 years ago," which becomes *factually incorrect* in no more than 365 days.
+
+## E. Grammar and Style
 Cleveland Historical authors are encouraged to use creative writing techniques to enhance the readability of their stories. However, excessive use of adjectives is discouraged. Words that are flowery or that do not add *actual* information should be eliminated. 
 
 Generally, each paragraph should represent a single coherent idea or theme (e.g. a time period). Paragraphs should flow naturally from one to the next in such a manner that the story can be easily outlined from introduction to conclusion. Final paragraphs should provide a sense of closure, even when leaving open questions.
