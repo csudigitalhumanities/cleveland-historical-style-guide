@@ -119,25 +119,7 @@ Below are a few considerations regarding hero images:
 # II. Voice
 Cleveland Historical is a reference resource that bears some similarities to an encyclopedia but is emphatically *not* an encyclopedia. Cleveland Historical is an academic publication that bears some similarities to an historical journal but is just as emphatically *not* that either. Cleveland Historical writers have well-founded opinions on historical topics but Cleveland Historical does *not* publish opinion columns.
 
-We write for *the public*, broadly-defined. Our audience is well-informed but not necessarily "well-educated." 
-
-Cleveland Historical is written in a pre-Gonzo journalistic magazine style.
-
-Writing in the first person is not allowed. Your story is based on your research and not on your personal experience.
-
-Writers on Cleveland Historical are expected to present their research in a serious, professional manner, while avoiding jargon, critical theory, etc.
-
-Puns are for nerds. But not the kind of nerds we are. 
-
-Comedic irony is prohibited. Dramatic irony is allowed but not necessarily encouraged. Existential irony is pointless.
-
-Sarcasm is totally appropriate and never misunderstood.
-
-We dip our toes in nostalgia, but refuse to soak in it.
- 
-Metaphors are allowed.
-
-If you want to be funny you might prefer to publish your writing on a personal blog or social media profile, or in a style guide for a public history project.
+Cleveland Historical is written in a journalistic magazine style – or "feature style" – but with _constraints_ relating to our broader mission as an historical resource. For example, unlike in a typical feature, writing in the first person is not allowed. Your story is based on your research and not on your personal experience. Likewise, while humor is an effective method for capturing reader attention – and even for bolstering persuasive argumentation – it is generally not appropriate in our context to write a story that can be described as "funny." We also want to avoid _direct_ appeals to the readers' selective sentimentality for the past. If your story happens to evoke nostalgia in the reader, it should be as a natural by-product of excellent storytelling and not merely because you took them for an unchallenging stroll down memory lane. Slang and other colloquialisms should be used sparingly, if at all. Jargon should be avoided to the extent possible, but may be invoked to educate readers on ideas that are central to your narrative. As such, a building may be described as "a fine example of the Second Empire architectural style" but you probably should not go on to ponder "the liminality of francophile entablature design." In most other regards, our style is similar to a standard feature style. You should include rich detail and description, utilizing a variety of literary devices, and carefully structuring your argument around a well-considered interpretation of the available facts. Writers are encouraged to develop their own distinct voice within the guidelines provided herein.
 
 ## A. Authority 
 Cleveland Historical stories should serve as a reliable and trustworthy resource for historians and other researchers. This means documenting your sources and writing with precision. Your work should serve as a credible citation in academic journals and other scholarship. See the section *Citing Your Sources* below. That said, authors must take care not to weigh down compelling stories with *too much* information.
@@ -153,22 +135,24 @@ Obviously, Cleveland Historical is primarily concerned with documenting the past
 
 Think twice before using words like: currently, presently, and today.
 
-For example, instead of saying that "Sherwin-Williams is currently building a new headquarters," say "In 2020, Sherwin-Williams revealed their plans for a new headquarters." The former is outdated as soon as construction is complete, whereas the latter is never outdated and can be easily amended at a later date. The preferred language effectively situates the present day in the historical past.
+For example, instead of saying that "Sherwin-Williams is currently building a new headquarters," say "In 2020, Sherwin-Williams revealed their plans for a new headquarters." The former is outdated as soon as construction is complete, whereas the latter is never outdated, conveys more information, and can be easily amended at a later date. The preferred language effectively situates the present day in the historical past.
 
 Similarly, think twice before using a phrase like "100 years ago," which becomes *factually incorrect* in no more than 365 days.
 
-## E. Grammar and Style
-Cleveland Historical authors are encouraged to use creative writing techniques to enhance the readability of their stories. However, excessive use of adjectives is discouraged. Words that are flowery or that do not add *actual* information should be eliminated. 
+## E. Grammar and Readability
+Cleveland Historical authors are encouraged to use rich, detailed, descriptive language. However, excessive use of adjectives is discouraged. Words that are flowery, redundant, imprecise, or that do not add *actual* information should be eliminated. 
 
-Generally, each paragraph should represent a single coherent idea or theme (e.g. a time period). Paragraphs should flow naturally from one to the next in such a manner that the story can be easily outlined from introduction to conclusion. Final paragraphs should provide a sense of closure, even when leaving open questions.
+Generally, each paragraph should represent a single coherent idea or theme (e.g. description of a time period, a piece of evidence, etc.). Paragraphs should flow naturally from one to the next in such a manner that the story can be easily outlined from introduction to conclusion. Final paragraphs should provide a sense of closure, even when leaving open questions.
 
 Avoid the passive voice (e.g. do not say "the election was lost by the challenger" when it is clearer and more direct to say that "the challenger lost the election").
 
+When using acronyms, the first abbreviated use should be offset in parentheses following the full use, e.g. "National Association of Colored People (NAACP)."
+
 Long sentences are sometimes unavoidable and can even be preferable if they are used to build a rhythm. However, too many consecutive long sentences can be tiresome to read. Use sentences of varying lengths to create a flow that is enjoyable to read.
 
-Always ask yourself if a given detail is actually required to successfully tell a story. It can be tempting to include everything that your research has uncovered. However, it is often the case that you are more excited about the small details than the reader will be. Street names are a classic example. While it may be true that West 6th Street was once called Bank Street, that fact *may or may not* be relevant to the story you are telling. This is especially the case when multiple streets are involved, at which point the text begins to feel like a chore to read. Rather than listing all the street names that have changed (for example), one after another, find a more creative solution that conveys the essential information without disrupting the rhythm of the narrative. Sometimes this means leaving things out.
+Always ask yourself if a given detail is actually required to successfully tell a story. It can be tempting to include everything that your research has uncovered, but this can often lead to a story that is scattershot or bogged down by asides. Sometimes the solution is to leave things out. Other times it may be best to move secondary information into a file caption or standalone factoid.
 
-Avoid complicated language, jargon, and acronyms. When acronym use is appropriate, the first abbreviated use should be offset in parentheses following the full use, e.g. "National Association of Colored People (NAACP)."
+Look for inconsistencies in your writing. For example, when referring to streets, choose between "Street" and "St." and between "East" and "E." and "Fourth" and "4th" and stick with that choice throughout.
 
 # III. Technical Requirements
 
