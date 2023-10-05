@@ -152,7 +152,7 @@ Long sentences are sometimes unavoidable and can even be preferable if they are 
 
 Always ask yourself if a given detail is actually required to successfully tell a story. It can be tempting to include everything that your research has uncovered, but this can often lead to a story that is scattershot or bogged down by asides. Sometimes the solution is to leave things out. Other times it may be best to move secondary information into a file caption or standalone factoid.
 
-Look for inconsistencies in your writing. For example, when referring to streets, choose between "Street" and "St." and between "East" and "E." and "Fourth" and "4th" and stick with that choice throughout.
+Look for inconsistencies in your writing. For example, when referring to numbered street names, choose between "East" and "E." and "Fourth" and "4th" and stick with that choice throughout.
 
 # III. Technical Requirements
 
