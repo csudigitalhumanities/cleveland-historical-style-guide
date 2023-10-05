@@ -166,6 +166,8 @@ Single space after sentences.
 
 The period goes "inside the quotes."
 
+Spell out Street, Boulevard, Avenue, etc. in the body of the main text.
+
 Refer to Chicago Manual of Style as needed for additional rules.
 
 ### Using HTML To Format Text
@@ -204,15 +206,15 @@ Related to citations, you should also fully document primary and secondary sourc
 Original works that were first published on a social media website may be used with written consent and/or in compliance with a Creative Commons license, crediting both the user and the website (e.g. "John Doe on Flickr" or "User @johndoe on Flickr" if an IRL name is not available). This citation should link directly to the public page on which the file was first published (must not require login). If the terms of a Creative Commons license or other usage restrictions apply, they should be indicated in the *Rights* field.
 
 ## E. Map Information
-Use the *Street Address* field to enter a single-line address, intersection, neighborhood, or city. Follow the examples below. 
-- Tremont, Cleveland, OH 
-- Euclid Ave, Cleveland, OH 
-- 2121 Euclid Ave, Cleveland, OH 
-- E 9th St and Euclid Ave, Cleveland, OH 
-- Shaker Heights, OH 
-- Kauffman Park, Lakewood, OH 
+Use the *Street Address* field to enter a single-line address, intersection, neighborhood, or city. Follow the examples below, ordered from most to least specific (more specifity is preferable in most cases):
+- **Full address**: 2121 Euclid Ave, Cleveland, OH 
+- **Intersection**: E 9th St and Euclid Ave, Cleveland, OH
+- **Street-only**: Euclid Ave, Cleveland, OH
+- **Place**: Kauffman Park, Lakewood, OH 
+- **Neighborhood-only**: Tremont, Cleveland, OH 
+- **Municipality**: Shaker Heights, OH 
 
-To save space, abbreviate street names and do not include periods or zip codes. The address should fit on a single line within the map interface when possible. 
+Note that – in order to save space – we abbreviate street names and do not include periods or zip codes _in this field_. (These rules do not apply to the main story text). The address should fit on a single line within the map interface when possible. 
 
 Use the *Access Information* field to indicate additional information that may be of use to the reader. For example, if a mapped building no longer exists, enter "Demolished" or "Destroyed by fire in 1889," etc.
 
