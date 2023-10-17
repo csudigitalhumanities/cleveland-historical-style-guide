@@ -186,6 +186,8 @@ In some cases you will need to click the "Use HTML" option to add special format
 ## B. Titles and Subtitles
 Titles for building and place names should not begin with "The."
 
+Do not use abbreviations in the title except where it improves comprehension or readability. For example, there is no functional need to abbreviate the word "Saint" as "St." in the title for "Saint Patrick Parish." But it might make sense to use an abbreviation in a story titled "The NAACP United Freedom Movement."
+
 Titles and Subtitles follow the Chicago Manual of Style. The following guidelines apply to all titles and subtitles: 
 - Always capitalize "major" words (nouns, pronouns, verbs, adjectives, adverbs, and some conjunctions).
 - Lowercase the conjunctions and, but, for, or, and nor.
