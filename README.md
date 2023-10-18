@@ -168,6 +168,8 @@ The period goes "inside the quotes."
 
 Spell out Street, Boulevard, Avenue, etc. in the body of the main text.
 
+Abbreviate common honorifics such as Mr., Mrs., Ms., Dr., Fr., Sr., and Msgr. in the body of the main text. This also applies to the names of saints as used in Catholic church names (e.g. "St. Patrick"), which are abbreviated in the body of the main text – but not in the main title or subtitle (per Section III.B.).
+
 Refer to Chicago Manual of Style as needed for additional rules.
 
 ### Using HTML To Format Text
