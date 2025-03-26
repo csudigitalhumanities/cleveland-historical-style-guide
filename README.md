@@ -202,7 +202,13 @@ Titles and Subtitles follow the Chicago Manual of Style. The following guideline
 - Exceptions will be made on the grounds of emphasis and prominence (e.g. [A River Runs Through It](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/CapitalizationTitles/faq0007.html)).
 
 ## C. Citing Your Sources
-Quotes and other assertions must be sourced in a natural voice inline with the text and documented in the Related Resources section at the end of the story. Instead of using a footnote, you can simply preface the information in the same way you might do verbally. For example, "According to a 1967 study..." or "The Plain Dealer called the plan..." Unsourced quotes and assertions will be challenged by the editors. Links in the Related Resources section must be clickable and lead to valid pages (see *Using HTML To Format Text* above for additional rules). All citations in the Related Resources section must use Chicago Manual of Style.
+Quotes and other assertions must be sourced in a natural voice inline with the text and should be documented in the Related Resources section at the end of the story. Instead of using a footnote, you can simply preface the information in the same way you might do verbally. For example, "According to a 1967 study..." or "The Plain Dealer called the plan..." Unsourced quotes and assertions will be challenged by the editors. 
+
+It is not neccessary to include _every_ source used in your research. Consider consolidating multiple similar citations under a single, more general heading. For example, if you have a list of multiple ads from the same newspaper, you might list them as one, e.g. "[Advertisements]." _Cleveland Call and Post_, 1951-1953. 
+
+Links in the Related Resources section must be clickable and lead to valid pages (see *Using HTML To Format Text* above for additional rules), and should be included when direct access is available. 
+
+All citations in the Related Resources section must use Chicago Manual of Style. 
 
 ## D. File Metadata
 Related to citations, you should also fully document primary and secondary source evidence such as images and oral history files. Each file should have at minimum a *Title*, *Description*, *Source*, and *Date* (exact or circa) entered in the appropriate fields. 
