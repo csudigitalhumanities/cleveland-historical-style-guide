@@ -192,7 +192,7 @@ Titles for building and place names should not begin with "The."
 
 Do not use abbreviations in the title except where it improves comprehension or readability. For example, there is no functional need to abbreviate the word "Saint" as "St." in the title for "Saint Patrick Parish." But it might make sense to use an abbreviation in a story titled "The NAACP United Freedom Movement."
 
-Titles and Subtitles follow the Chicago Manual of Style. The following guidelines apply to all titles and subtitles: 
+Generally, Titles and Subtitles follow the Chicago Manual of Style: 
 - Always capitalize "major" words (nouns, pronouns, verbs, adjectives, adverbs, and some conjunctions).
 - Lowercase the conjunctions and, but, for, or, and nor.
 - Lowercase the articles the, a, and an.
@@ -201,7 +201,9 @@ Titles and Subtitles follow the Chicago Manual of Style. The following guideline
 - Lowercase the second part of Latin species names.
 - Lowercase the second word after a hyphenated prefix (e.g., Mid-, Anti-, Super-, etc.) in compound modifiers (e.g., Mid-year, Anti-hero, etc.).
 - Always capitalize the first and last words of titles and subtitles (overrides the rules above).
-- Exceptions will be made on the grounds of emphasis and prominence (e.g. [A River Runs Through It](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/CapitalizationTitles/faq0007.html)).
+- Exceptions will be made on the grounds of emphasis and prominence (e.g. [A River Runs Through It](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/CapitalizationTitles/faq0007.html)) and as defined below.
+
+If a subtitle forms a complete sentence – as in the example "W.S. Arrasmith brings his signature Streamline Moderne architectural style to Cleveland" – use sentence-style capitalization rather than title-style.
 
 ## C. Citing Your Sources
 Quotes and other assertions must be sourced in a natural voice inline with the text and should be documented in the Related Resources section at the end of the story. Instead of using a footnote, you can simply preface the information in the same way you might do verbally. For example, "According to a 1967 study..." or "The Plain Dealer called the plan..." Unsourced quotes and assertions will be challenged by the editors. 
